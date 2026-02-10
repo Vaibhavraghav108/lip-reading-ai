@@ -1,0 +1,58 @@
+# Virtual Environments
+venv_avsr/
+myenv/
+*/venv*/
+*.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Model Files (too large for GitHub)
+*.pth
+*.pt
+*.ckpt
+*.model
+*.bin
+
+# Temporary/Log Files
+temp_*.mp4
+temp_*.wav
+temp_*.avi
+*.log
+lightning_logs/
+outputs/
+
+# Data Files 
+data/
+*.mp4
+*.mpg
+*.avi
+*.wav
+*.mov
+
+# System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE Files
+.idea/
+.vscode/
+*.code-workspace
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
