@@ -239,11 +239,3 @@ Common errors are usually:
 ## 📄 License
 
 This project uses the Auto-AVSR model which is available under its original license. See the `LICENSE` file for more details.
-
-## 🔗 Original Repository
-
-Based on the Auto-AVSR project: https://github.com/mpc001/auto_avsr
-
----
-
-**Ready to start lip reading!** 👄🎤
